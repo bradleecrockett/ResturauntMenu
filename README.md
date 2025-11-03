@@ -17,7 +17,7 @@ Your website should be layed out and styled as follows:
 
 ## The Lunch Menu page should resemble the Breakfast menu as well.
 
-Same Layout, differnt menu categories and items.
+Same Layout, different menu categories and items.
 * Lunch does not need a carousel, just 3 lunch item images.
 
 ## The Treats Menu
