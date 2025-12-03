@@ -1,6 +1,7 @@
 # Resturant Menu
 
 Create a **3 page** website for a resturant menu.
+[Menu Rubric](https://docs.google.com/document/d/1-cI62o-NvGGQi1cwQ4Q0Sfy4ITB0W8_36dsBaXW9yr8/edit?tab=t.0#heading=h.k68cduqwe7hr)
 
 ## Styling the Breakfast Menu Page. 
 Your website should be layed out and styled as follows:
